@@ -1,0 +1,23 @@
+# Display
+
+- Prompt (nur ansatzweise, 3-4 Fragen als JSON Katalog)
+- Settings functional
+- Preview im Ansatz ????
+- Collage Mode
+- Bluetooth Print
+
+
+
+# Bluetooth Print
+- obv
+
+
+# Image Enhancement
+- Blackpoint?? see screenshot??
+
+
+# Camera
+
+
+
+# Akku 

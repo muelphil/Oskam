@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Was hat sich seit wir uns kennen gelernt haben an mir verändert, was ist gleichgeblieben?",
+        "tags": ["Friends", "Family"]
+    },{
+        "question": "Worauf bist du stolz? (Mensch, Gegenstand, Haltung, ...)",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Wären kleine Dinge in deinem Leben anders gelaufen (zum Beispiel Wohnort einige Kilometer anders, in ein anderes Schuljahr eingestuft), wie sehr hätte das deine jetzige Lebensrealität beeinflusst?",
+        "tags": ["Friends", "Family"]
+    },{
+        "question": "Für welche Interaktion (mit Anwesenden oder Fremden) würdest du dich gerne bedanken?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Auf Basis deiner Schwächen, wer warst du in deinem früheren Leben, unter der Annahme, dass deine frühere Existenz in dem gleichen Bereich echt gut war?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Angenommen es gibt eine Wiedergeburt, in welchem Zeitalter hat deine erste Inkarnation gelebt? (Would you consider yourself an old soul?)",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Mit welchem Menschen hättest du gern mehr Zeit verbracht?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Woran glaubst du, obwohl du es selbst als irrational bezeichnen würdest?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Welche unscheinbare Interaktion hat dich in letzter Zeit glücklich gemacht/ zum Lächeln gebracht?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Welches Besitztum von einer anderen Person würdest du gern klauen, wenn es keine Konsequenzen hätte?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Was ist deiner Meinung nach dein attraktivstes Feature?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Story Time: das eine Mal, als ich nicht mitbekommen habe, dass jemand mit mir geflirtet hat und ich es erst Jahre später realisiert habe.",
+        "tags": ["Friends", "Date"]
+    },{
+        "question": "Welcher Gegenstand (ohne materiellen Wert) hat für dich die größte Bedeutung?",
+        "tags": ["Friends", "Family", "Date"]
+    },{
+        "question": "Welches Sex-Toy wolltest du schon immer mal ausprobieren?",
+        "tags": ["Spicy"]}
+  ]
